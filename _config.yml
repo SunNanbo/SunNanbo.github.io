@@ -1,3 +1,8 @@
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: ["README.md"]
+
 theme: jekyll-theme-cayman
 title: Welcome to the Nanbo's homepage!
 description: Feel free to bookmark this to see my project updates.
