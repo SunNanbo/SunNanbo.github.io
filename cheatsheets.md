@@ -5,6 +5,11 @@
 ## Sublime
 * [built in shortcuts](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
 
+Description | Shortcuts
+--- | ---
+Hide/Show side bar | Ctrl + k, Ctrl + b
+Split windown into # of columns | Shift + Alt + 1/2/3
+
 ## Chrome
 
 Description | Shortcuts
