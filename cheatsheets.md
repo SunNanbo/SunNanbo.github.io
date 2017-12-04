@@ -9,11 +9,14 @@
 `~/.config/sublime-text-3/Local/Session.sublime-session`
 Change the "recent_workspaces"
 
-Description | Shortcuts
---- | ---
-Hide/Show side bar | Ctrl + k, Ctrl + b
-Split windown into # of columns | Shift + Alt + 1/2/3
-Move window into another column | Ctrl + Shift + 1/2/3
+Package | Description | Shortcuts
+--- | --- | ---
+Built in | Hide/Show side bar | Ctrl + k, Ctrl + b
+Built in | Split windown into # of columns | Shift + Alt + 1/2/3
+Built in | Move window into another column | Ctrl + Shift + 1/2/3
+Terminal View | Copy current line | Ctrl + Shift + C
+Terminal View | Pase command line | Ctrl + Shift + V
+
 
 ## Chrome
 

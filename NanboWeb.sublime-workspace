@@ -355,9 +355,28 @@
 			"file": "cheatsheets.md",
 			"settings":
 			{
-				"buffer_size": 482,
+				"buffer_size": 750,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/data/users/nanbos/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "-------- freesurfer-Linux-centos6_x86_64-stable-pub-v5.3.0 -------- \nSetting up environment for FreeSurfer/FS-FAST (and FSL)             \nFREESURFER_HOME   /apps/arch/Linux_x86_64/freesurfer/5.3.0          \nFSFAST_HOME       /apps/arch/Linux_x86_64/freesurfer/5.3.0/fsfast   \nFSF_OUTPUT_FORMAT nii.gz                                            \nSUBJECTS_DIR      /apps/arch/Linux_x86_64/freesurfer/5.3.0/subjects \nMNI_DIR           /apps/arch/Linux_x86_64/freesurfer/5.3.0/mni      \nFSL_DIR           /apps/arch/Linux_x86_64/fsl/5.0.8                 \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io>                   \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n",
+			"settings":
+			{
+				"buffer_size": 3105,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
 			}
 		}
 	],
@@ -368,10 +387,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 363.0,
-		"last_filter": "Term",
+		"height": 392.0,
+		"last_filter": "Prefer",
 		"selected_items":
 		[
+			[
+				"Prefer",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
 			[
 				"Term",
 				"Terminal View: Open Bash Terminal"
@@ -417,7 +448,7 @@
 				"Set Syntax: SQL"
 			]
 		],
-		"width": 444.0
+		"width": 412.0
 	},
 	"console":
 	{
@@ -679,7 +710,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -688,15 +719,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 482,
+						"buffer_size": 750,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								387,
-								387
+								655,
+								655
 							]
 						],
 						"settings":
@@ -707,7 +738,203 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/data/users/nanbos/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3105,
+						"regions":
+						{
+							"0,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"10,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"15,16":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"25,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"29,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"3,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"30,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"33,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"40,45":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							}
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"default_dir": "/mnt/eql/p4/users/external/nanbos/Repos/SunNanbo.github.io",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/mnt/eql/p4/users/external/nanbos/Repos/SunNanbo.github.io",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								8,
+								50
+							],
+							"terminal_view_scroll": null,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -730,11 +957,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
