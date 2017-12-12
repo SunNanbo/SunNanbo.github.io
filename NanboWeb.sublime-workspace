@@ -355,21 +355,13 @@
 			"file": "cheatsheets.md",
 			"settings":
 			{
-				"buffer_size": 750,
+				"buffer_size": 872,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/data/users/nanbos/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 107,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "-------- freesurfer-Linux-centos6_x86_64-stable-pub-v5.3.0 -------- \nSetting up environment for FreeSurfer/FS-FAST (and FSL)             \nFREESURFER_HOME   /apps/arch/Linux_x86_64/freesurfer/5.3.0          \nFSFAST_HOME       /apps/arch/Linux_x86_64/freesurfer/5.3.0/fsfast   \nFSF_OUTPUT_FORMAT nii.gz                                            \nSUBJECTS_DIR      /apps/arch/Linux_x86_64/freesurfer/5.3.0/subjects \nMNI_DIR           /apps/arch/Linux_x86_64/freesurfer/5.3.0/mni      \nFSL_DIR           /apps/arch/Linux_x86_64/fsl/5.0.8                 \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io>                   \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n                                                                    \n",
+			"contents": "er/5.3.0/s                                                          \nubjects                                                             \nMNI_DIR                                                             \n        /a                                                          \npps/arch/L                                                          \ninux_x86_6                                                          \n4/freesurf                                                          \ner/5.3.0/m                                                          \nni                                                                  \nFSL_DIR                                                             \n        /a                                                          \npps/arch/L                                                          \ninux_x86_6                                                          \n4/fsl/5.0.                                                          \n8                                                                   \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io> git status        \nOn branch master                                                    \nYour branch is up-to-date with 'origin/master'.                     \nChanges not staged for commit:                                      \n  (use \"git add <file>...\" to update what will be committed)        \n  (use \"git checkout -- <file>...\" to discard changes in working dir\nectory)                                                             \n                                                                    \n        modified:   NanboWeb.sublime-workspace                      \n        modified:   cheatsheets.md                                  \n                                                                    \nno changes added to commit (use \"git add\" and/or \"git commit -a\")   \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io> git add .         \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io> git commit -m \"Upd\nate cheatsheets.md\"                                                 \n[master f069d47] Update cheatsheets.md                              \n 2 files changed, 250 insertions(+), 13 deletions(-)                \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io> git push origin ma\nster                                                                \nCounting objects: 4, done.                                          \nDelta compression using up to 856 threads.                          \nCompressing objects: 100% (4/4), done.                              \nWriting objects: 100% (4/4), 1.71 KiB | 0 bytes/s, done.            \nTotal 4 (delta 3), reused 0 (delta 0)                               \nremote: Resolving deltas: 100% (3/3), completed with 3 local objects\n.                                                                   \nTo git@github.com:SunNanbo/SunNanbo.github.io.git                   \n   57234e6..f069d47  master -> master                               \nnanbos@circuv:~/storage/Repos/SunNanbo.github.io>                   \n                                                                    \n",
 			"settings":
 			{
 				"buffer_size": 3105,
@@ -393,7 +385,7 @@
 		[
 			[
 				"Prefer",
-				"Preferences: Package Control Settings – User"
+				"Preferences: Key Bindings"
 			],
 			[
 				"glue",
@@ -475,6 +467,7 @@
 	],
 	"file_history":
 	[
+		"/data/users/nanbos/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
 		"/mnt/eql/p4/users/external/nanbos/CBIG_private/stable_projects/preprocessing/CBIG_fMRI_Preproc2016/CBIG_preproc_create_mask.csh",
 		"/mnt/eql/p4/users/external/nanbos/CBIG_private/stable_projects/preprocessing/CBIG_fMRI_Preproc2016/CBIG_preproc_bbregister.csh",
 		"/mnt/eql/p4/users/external/nanbos/CBIG_private/stable_projects/preprocessing/CBIG_fMRI_Preproc2016/example_config.txt",
@@ -497,7 +490,6 @@
 		"/mnt/eql/p4/users/external/nanbos/AD_atrophy_behavior_MMLDA_spm_v4/MMLDA/step2_MMLDA/scripts/CBIG_MMLDA_inf_submit_wrapper.sh",
 		"/mnt/eql/p4/users/external/nanbos/AD_atrophy_behavior_MMLDA_spm_v4/utilities/CBIG_matrix2csv.m",
 		"/mnt/eql/p4/users/external/nanbos/AD_atrophy_behavior_MMLDA_spm_v4/analyses/10foldCV/output/ADNI2_bl_AD_combine1_meanCNstdALLPlus1_MNI2mm/10foldCV_p.csv",
-		"/data/users/nanbos/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
 		"/data/users/nanbos/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
 		"/mnt/eql/p4/users/external/nanbos/AD_atrophy_behavior_MMLDA_spm_v4/utilities/CBIG_get_run.m",
 		"/mnt/eql/p4/users/external/nanbos/AD_atrophy_behavior_MMLDA_spm_v4/LDA/step1_Brain2Doc/scripts/CBIG_Brain2Doc_wrapper.m",
@@ -710,7 +702,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -719,48 +711,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 750,
+						"buffer_size": 872,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								655,
-								655
+								776,
+								776
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/data/users/nanbos/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -776,7 +740,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"semi_transient": false,
 					"settings":
 					{
@@ -818,6 +782,30 @@
 									]
 								],
 								"scope": "terminalview.black_blue"
+							},
+							"23,8":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1595,
+										1633
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"24,8":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1664,
+										1690
+									]
+								],
+								"scope": "terminalview.black_red"
 							},
 							"25,45":
 							{
@@ -895,8 +883,8 @@
 						"selection":
 						[
 							[
-								602,
-								602
+								2021,
+								2021
 							]
 						],
 						"settings":
@@ -924,7 +912,7 @@
 							},
 							"terminal_view_last_cursor_pos":
 							[
-								8,
+								43,
 								50
 							],
 							"terminal_view_scroll": null,
@@ -934,7 +922,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

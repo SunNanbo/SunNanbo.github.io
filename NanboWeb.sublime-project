@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/mnt/eql/p4/users/external/nanbos/Repos/CodingLanguage"
 		}
 	]
 }
